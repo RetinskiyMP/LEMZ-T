@@ -1,1 +1,1 @@
-# LEMZ-T
+# codeblocks mingw
