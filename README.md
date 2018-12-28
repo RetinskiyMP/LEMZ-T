@@ -1,1 +1,2 @@
 # codeblocks mingw
+typo fleks
